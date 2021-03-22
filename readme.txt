@@ -1,3 +1,8 @@
+https://angelpena619.github.io/Homework-Refactoring-AP/
+https://github.com/angelpena619/Homework-Refactoring-AP
+
+
+
 # Refactoring Homework
 
 was given this existing html to refactor this code, The goal for this project was to make this website more accessible, and improve its overall function. 
